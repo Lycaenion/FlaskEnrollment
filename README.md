@@ -2,7 +2,7 @@
 
 Work-in-progress
 
-#Setup python virtual environment
+# Setup python virtual environment
 
 Create virtual environment:
 ```bash
