@@ -1,4 +1,4 @@
-# flask_enrollment
+# flaskEnrollment
 
 Work-in-progress
 
@@ -7,6 +7,11 @@ Work-in-progress
 Create virtual environment:
 ```bash
    python3 -m venv
+```
+
+Install packages from requirements.txt:
+```bash
+   pip install -r requirements.txt
 ```
 
 Install flask:
